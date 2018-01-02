@@ -4,3 +4,4 @@
 # Baca https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/ untuk petunjuk berkontribusi ke sebuah project di github
 Fathurriadi 1602020037
 faisal hidayat 160202036
+abdul haqqi azmi 1602020030

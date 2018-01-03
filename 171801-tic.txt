@@ -3,5 +3,4 @@
 # Lengkapi file ini dengan nama dan nim
 # Baca https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/ untuk petunjuk berkontribusi ke sebuah project di github
 
-Nama : Septina Mayanti
-Nim :160202005
+Septina Mayanti 160202053
